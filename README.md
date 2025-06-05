@@ -33,7 +33,7 @@ Platform game or "hopper" style game project.
 - `SOUND`: Sound effects or music data
 
 ### HORTEN_D
-Graphics-focused application or game component.
+Graphics-focused demo for demoing Amiga 500 at Horten warehouse
 - `assembly-code.S`: Main source file
 - `GRAPHICS`: Graphics resources
 - `HORTEN_D`: Main component data
@@ -41,17 +41,17 @@ Graphics-focused application or game component.
 - `SOUND`: Sound resources
 
 ### PRIMITIV
-Basic/primitive graphics or game engine components.
+Basic/primitive graphics demo
 - `assembly-code.S`: Source file for primitive operations
 - `BloodMoneySnd`: Sound data possibly from/similar to the Amiga game "Blood Money"
 
 ### QUELLE_D
-Code source/reference library ("Quelle" means "source" in German).
+Graphics-focused demo for demoing Amiga 500 at Quelle warehouse
 - `assembly-code.S`: Main source file
 - `QUELLE_D`: Main data
 
 ### SPACE_SC
-Space-themed screen or game component.
+Space-themed demo.
 - `assembly-code.S`: Main source file
 - `FONT`: Font data specific to this component
 
