@@ -5,7 +5,7 @@ This repository contains various Amiga assembler source code projects. To execut
 ## Project Structure
 
 ### 9_FONT_D
-Font-related source code and resources for graphics applications.
+Font-related demo
 - `assembly-code.S`: Main font assembly source
 - `FONT`: Font resource data
 - `HYPER_SC`: Hypertext screen-related code
