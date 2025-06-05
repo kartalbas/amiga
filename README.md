@@ -12,7 +12,7 @@ Font-related source code and resources for graphics applications.
 - `SOUND`: Sound effects or music data
 
 ### BOMBO
-Game-related resources and source code, possibly for a tank/shooter game.
+Game-related resources and source code for tank/shooter game.
 - `BOMBO1.S`: Main source file
 - `CHARSET`: Character set data
 - `DRIVE_SO`: Disk drive sound or functionality
